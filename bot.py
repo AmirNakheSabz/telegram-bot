@@ -6,7 +6,7 @@ import asyncio
 
 tehran_tz = pytz.timezone('Asia/Tehran')
 
-client = TelegramClient("kopp", 23942100, "71069afff908bd5ee99a23a65d889237")
+client = TelegramClient("kopp", 00000, "api_hash")
 
 peer_to = None
 msgid_to = None
